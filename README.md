@@ -7,5 +7,7 @@ Github pages
 png images
 fixed width content
 desktop only
+
+
 **Authors**
 Šarūnas Kazakausas
